@@ -26,8 +26,8 @@
 
 | **Country**  | **Reason** | **days** |
 |------------- |------------|----------|
-| Malaysia     |            | 20       |
-| UAE          |            | 25         |
+| Malaysia     |  weather       | 20       |
+| UAE          | Desserts        | 25         |
 | Egypt        | The great Pyramid of Giza | 15|
 | Italy        | Colosseum                 |  14 |
 
