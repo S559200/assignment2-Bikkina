@@ -18,3 +18,17 @@
 
 
  [Click Here to know AboutMe](https://github.com/S559200/assignment2-Bikkina/blob/main/AboutMe.md)
+
+
+---
+
+# favourite countries
+
+| **Country**  | **Reason** | **days** |
+|------------- |------------|----------|
+| Malaysia     |            | 20       |
+| UAE          |            | 25         |
+| Egypt        | The great Pyramid of Giza | 15|
+| Italy        | Colosseum                 |  14 |
+
+
