@@ -31,4 +31,11 @@
 | Egypt        | The great Pyramid of Giza | 15|
 | Italy        | Colosseum                 |  14 |
 
+---
 
+# Funny Quotes
+> Even in hard times there is a possibility to have fun.*_ Woman's Book_*
+>
+> My mother always used to say: The older you get, the better you get, unless you’re a banana.*_Rose_* 
+
+---
